@@ -20,3 +20,4 @@ def main():
             break
         joke=get_joke()
         print(joke)
+main()
